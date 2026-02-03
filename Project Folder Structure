@@ -1,0 +1,11 @@
+trafalgar-landing-page/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
